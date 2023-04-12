@@ -1,0 +1,63 @@
+
+<resources>
+    <string name="app_name">My Audio</string>
+    <string name="nama_Aplikasi">My Audio</string>
+    <string name="nama_Item"> Nama Item</string>
+    <string name="desc_Item">Deskripsi Item</string>
+    <string name="aboutme">About Me</string>
+    <string name="nama">Rifky Fahrizal Ubaidillah</string>
+    <string name="email">rifkyfahrizal08@gmail.com</string>
+
+    <string-array name="data_Item">
+        <item>Sony WH 1000XM4</item>
+        <item>Cambridge Audio Melomania 1 Plus</item>
+        <item>Sennheiser Momentum 4 Wireless</item>
+        <item>Sony WH 1000XM5</item>
+        <item>Sony WF 1000XM4 Wireless Earbuds</item>
+        <item>Apple AirPods Pro 2</item>
+        <item>Samsung Galaxy Buds 2 Pro</item>
+        <item>1More Triple Driver In Ear Headphone</item>
+        <item>SoundMAGIC E11BT</item>
+        <item>Lypertek PurePlay Z3 2.0</item>
+    </string-array>
+
+    <string-array name="desc_Item">
+        <item>The best headphones for most people </item>
+        <item>The best budget headphones overall</item>
+        <item>The best headphones for sheer options and sound quality</item>
+        <item>The best Sony headphones if you dont mind paying the price</item>
+        <item>The best true wireless earbuds</item>
+        <item>The best noise-cancelling earbuds for Apple fans</item>
+        <item>Easily the best Samsung Galaxy Buds yet</item>
+        <item>The best wired in-ear headphones</item>
+        <item>The best wired earbuds on a budget</item>
+        <item>The best budget true wireless earbuds</item>
+    </string-array>
+
+    <string-array name="detail_Item">
+        <item>Acoustic design: Closed \nWeight: 253g \nFrequency response: 4Hz to 40kHz \nDrivers: 1.57-inch dome-type \nBattery life: 30 hours</item>
+        <item>Acoustic design: Closed \nWeight: 4.6g \neach Frequency response: 20Hz – 20kHz \nDrivers: 5.8mm Dynamic with Graphene-enhanced Diaphragm \nBattery life: 9 hours (earbuds) 36 hours (charging case)</item>
+        <item>Acoustic design: Closed \nWeight: 293g \nFrequency response: 6Hz-22,000Hz \nDrivers: 42mm dynamic \nBattery life: 60 hours</item>
+        <item>Acoustic design: Closed \nWeight: 250g \nFrequency response: 4Hz to 40kHz \nDrivers: 1.18-inch dome-type \nBattery life: 40 hours</item>
+        <item>Acoustic design: Closed \nWeight: 7.3g \nFrequency response: 20-40,000Hz \nDrivers: 6mm \nBattery life : 8 hours (earbuds) 16 hours (charging case)</item>
+        <item>Acoustic design: Closed \nWeight: 5.3g \neach Frequency response: Not listed \nDrivers: Custom Apple design \nBattery life : 6 hours (earbuds) 30 hours (charging case)</item>
+        <item>Acoustic Design: Closed \nWeight: 5.5g \nFrequency Response: 20 - 20,000 Hz \nDrivers: Custom Coaxial 2-way \nBattery Life: 5 hours (earbuds) 18 hours (charging case)</item>
+        <item>Acoustic design: Closed \nWeight: 18g \nFrequency response: 20-40,000Hz \nDrivers: Dynamic \nBattery life: N/A</item>
+        <item>Acoustic design: Closed \nWeight: 24.7g \nFrequency response: 20 - 20,000Hz \nDrivers: 10mm dynamic neodymium \nBattery life: 20 hours</item>
+        <item>Acoustic design: : Closed Frequency response: : 20Hz - 20kHz \nDrivers:: Graphene, 6mm dynamic \nBattery life: : 10 hours (earbuds) 70 hours (charging case)</item>
+    </string-array>
+
+    <integer-array name="photo_Item">
+        <item>@drawable/sony_wh_1000xm4</item>
+        <item>@drawable/cambridge_audio_melomania_1_plus</item>
+        <item>@drawable/sennheiser_momentum_4_wireless</item>
+        <item>@drawable/sony_wh_1000xm5</item>
+        <item>@drawable/sony_wf_1000xm4_wireless_earbuds</item>
+        <item>@drawable/apple_airpods_pro_2</item>
+        <item>@drawable/samsung_galaxy_buds_2_pro</item>
+        <item>@drawable/more_triple_driver_in_ear_headphone</item>
+        <item>@drawable/soundmagic_e11bt</item>
+        <item>@drawable/lypertek_pureplay_z3_2_0</item>
+    </integer-array>
+
+</resources>
